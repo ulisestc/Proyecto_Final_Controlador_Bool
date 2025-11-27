@@ -1,0 +1,3 @@
+[submodule "esp32-logic-game"]
+	path = esp32-logic-game
+	url = https://github.com/ulisestc/esp32-logic-game.git

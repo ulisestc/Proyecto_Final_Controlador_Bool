@@ -1,0 +1,7 @@
+pinBotonA = 15;
+pinBotonB = 4;
+pinBotonC = 17;
+
+led_pins_progress = [13, 25, 21, 32, 23, 26] # 6 LEDs de progreso
+led_pin_status = 27 # 1 LED de estado/salida
+        
